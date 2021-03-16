@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep-hacks/weather-app.git"
+  },
+  "author": "DeepHACKS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep-hacks/weather-app/issues"
+  },
+  "homepage": "https://github.com/deep-hacks/weather-app#readme",
+  "devDependencies": {
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "temp-units-conv": "^1.0.2"
+  }
+}
