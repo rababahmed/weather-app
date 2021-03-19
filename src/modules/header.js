@@ -15,6 +15,7 @@ function header() {
   Logo.classList.add("logo");
   searchForm.classList.add("search-form");
   searchBar.classList.add("search-bar");
+  searchBar.setAttribute("placeholder", "Search for a city");
   searchBtn.classList.add("search-btn");
   searchBtn.setAttribute("type", "submit");
   searchBtn.setAttribute("name", "submit");
